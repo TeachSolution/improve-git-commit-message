@@ -39,3 +39,10 @@ Before this fix foo wasn't enabled at all, behavior changes from <old> to <new>
 Closes D2IQ-12345
 
 ```
+
+## Usage
+
+You can use this comment convention on different kinds of framework or platform.
+
+### Node.js
+https://commitlint.js.org/#/
